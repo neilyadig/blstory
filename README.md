@@ -3,7 +3,7 @@ blstory
 
 bl master repo
 
-Code for bell labs is bl. 
 
-NEVER use “Bell Labs” in copy
+
+ALWAYS us bl in copy.
 Names should be initials
